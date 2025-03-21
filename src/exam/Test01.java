@@ -8,5 +8,7 @@ public class Test01 {
 		System.out.println("원격에서 또 수정해봄");
 
 		System.out.println("원격에서 수정~~");
+		System.out.println("로컬에서 수정중");
+
 	}
 }
